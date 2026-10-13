@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "LevelPlayMolocoAdapter", targets: ["LevelPlayMolocoAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Moloco-Adapter-Swift-Package.git", exact: "5.19.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Moloco-Adapter-Swift-Package.git", exact: "5.20.0"),
     ],
     targets: [
         .target(
