@@ -8,8 +8,8 @@ use the LevelPlay Moloco adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-moloco-swift-package.git`) and select the `LevelPlayMolocoAdapter` product.
-Version `5.18.0` of this package corresponds to LevelPlay adapter
-`5.18.0` (<https://github.com/ironsource-mobile/LevelPlay-Moloco-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.19.0` of this package corresponds to LevelPlay adapter
+`5.19.0` (<https://github.com/ironsource-mobile/LevelPlay-Moloco-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 Moloco adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
